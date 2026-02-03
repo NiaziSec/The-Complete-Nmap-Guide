@@ -1,5 +1,5 @@
 # The Complete Nmap Guide
-A comprehensive resource covering everything about Nmap from basic commands to advanced scanning techniques. Perfect for beginners and professionals seeking to master network exploration and security auditing with Nmap.
+A comprehensive resource covering everything about Nmap from basic commands to advanced scanning techniques. Perfect for beginners and professionals for network exploration and security auditing with Nmap.
 
 ## **Target Specification**
 - **Single IP Scan**: `nmap <target>` - Scans a single IP (e.g., `nmap 192.168.1.1`).
