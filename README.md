@@ -1,6 +1,6 @@
 # The Complete Nmap Guide (2026 Edition)
 
-A comprehensive, living cheat sheet covering everything from basic Nmap commands to advanced scanning, firewall/IDS evasion, and a bug-bounty-focused recon workflow. Built for network exploration, security auditing, and authorized penetration testing.
+A comprehensive cheat sheet covering everything from basic Nmap commands to advanced scanning, firewall/IDS evasion, and a bug-bounty-focused recon workflow. Built for network exploration and security auditing
 
 > ⚠️ **Legal & Ethical Use**
 > Every technique below sends real packets to real machines. Only run these against systems you own, systems you have explicit written authorization to test, or a bug bounty program's clearly in-scope assets. Unauthorized scanning can be illegal (e.g. under the U.S. CFAA, UK Computer Misuse Act, and equivalent laws elsewhere) and can get you banned from a program even when it isn't.
