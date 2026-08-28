@@ -3,7 +3,7 @@
 A comprehensive cheat sheet covering everything from basic Nmap commands to advanced scanning, firewall/IDS evasion, and a bug-bounty-focused recon workflow. Built for network exploration and security auditing
 
 > ⚠️ **Legal & Ethical Use**
-> Every technique below sends real packets to real machines. Only run these against systems you own, systems you have explicit written authorization to test, or a bug bounty program's clearly in-scope assets. Unauthorized scanning can be illegal (e.g. under the U.S. CFAA, UK Computer Misuse Act, and equivalent laws elsewhere) and can get you banned from a program even when it isn't.
+> Every technique below sends real packets to real machines. Only run these against systems you own, systems you have explicit written authorization to test, or a bug bounty program's clearly in-scope assets. Unauthorized scanning can be illegal.
 
 ## Table of Contents
 
@@ -218,7 +218,7 @@ Nmap scripts (`.nse` files) automate vulnerability checks, brute forcing, and en
 
 ## Bug Bounty Recon Playbook
 
-Nmap is rarely the *first* tool in a modern bug bounty workflow — it's the confirmation and depth layer that sits after fast, wide-net tools have already narrowed the target list.
+Nmap is rarely the *first* tool in a modern bug bounty workflow.
 
 ```mermaid
 flowchart LR
