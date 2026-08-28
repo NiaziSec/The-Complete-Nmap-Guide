@@ -321,4 +321,4 @@ To deepen your understanding of Nmap, check out the official documentation:
 * [HackTricks — Nmap Summary](https://hacktricks.wiki/en/generic-methodologies-and-resources/pentesting-network/nmap-summary-esp.html)
 
 > **Welcome to the Repository!**
-> This guide is intended to be a living cheat sheet for network and security professionals. Feel free to star, fork, and share your own tips, tricks, and advanced NSE scripts via pull requests. Whether you're optimizing scan times with `--min-rate` or sharing a custom Lua script, this is your repository to update and refine. Happy (authorized) scanning!
+> This guide is intended to be a living cheat sheet for network and security professionals. Feel free to star, fork, and share your own tips, tricks, and NSE scripts via pull requests. Whether you're optimizing scan times with `--min-rate` or sharing a custom script, this is your repository to update and refine. GOOD LUCK))))!
